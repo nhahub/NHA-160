@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/NHA--160-Movies%20Data%20Warehouse-181717?style=for-the-badge&logo=github" alt="Project Banner"/>
 </p>
 
-<h1 align="center">🎬 NHA-160 — Professional Movies Data Warehouse & Analytics</h1>
+<h1 align="center">🎬 Movies Data Warehouse & Analytics</h1>
 
 <p align="center">
   <i>A high-end, production-grade data engineering project built with ETL pipelines, SQL Star Schema, and advanced analytics.</i>
